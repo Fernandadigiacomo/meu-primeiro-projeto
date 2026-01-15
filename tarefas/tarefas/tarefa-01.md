@@ -1,18 +1,30 @@
-# Tarefa 01 — Introdução ao Excel com IA
+# Tarefa 01 — Criando uma Ferramenta de Controle de Investimentos com Excel
 
-## Objetivo da Tarefa
-Aplicar os primeiros conceitos apresentados no curso **Excel com IA** da DIO, compreendendo como a Inteligência Artificial pode apoiar análises e automações no Excel.
+## Tipo de Atividade
+Projeto prático em Excel
 
-## Descrição da Atividade
-A tarefa consistiu em:
-- Explorar funcionalidades iniciais do Excel com apoio de IA
-- Entender os principais casos de uso apresentados no módulo introdutório
+## Objetivo do Projeto
+Desenvolver uma ferramenta de controle de investimentos utilizando o Excel, aplicando conceitos de organização de dados, análise financeira e apoio de recursos de Inteligência Artificial para potencializar a tomada de decisão.
 
-## Aprendizados
-- Compreensão do papel da IA no apoio à análise de dados no Excel
-- Visão inicial sobre automação e ganho de produtividade
-- Importância da organização e documentação das atividades
+## Descrição do Projeto
+O projeto consiste na criação de uma planilha estruturada para:
+- Registro de investimentos
+- Acompanhamento de aportes
+- Controle de rendimentos
+- Visualização da evolução do patrimônio
 
-## Observações
-Esta é a primeira entrega do curso e marca o início da documentação prática neste repositório.
+A proposta do módulo é demonstrar como o Excel pode ser utilizado como ferramenta de controle financeiro, com apoio de recursos inteligentes para análise e automação.
 
+## Ferramentas Utilizadas
+- Microsoft Excel
+- Funcionalidades analíticas do Excel
+- Recursos de IA apresentados no módulo
+
+## Aprendizados Principais
+- Estruturação de dados financeiros no Excel
+- Organização de informações para análise de investimentos
+- Uso do Excel como apoio à tomada de decisão
+- Visão prática da aplicação de IA em controles financeiros
+
+## Status
+Projeto em desenvolvimento, conforme avanço do módulo no curso.
