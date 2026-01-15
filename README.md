@@ -1,40 +1,39 @@
+# Primeiro Projeto — Excel com IA (DIO)
 
-## ⚙️ Instalação
-Passos essenciais para executar o projeto localmente.
+Repositório criado para **documentar, organizar e apresentar** as atividades desenvolvidas no curso **Excel com IA** da **DIO**, como parte do meu processo de formação acadêmica e prática em Inteligência Artificial.
 
-1. Clonar o repositório  
-2. Instalar dependências  
-3. Configurar variáveis de ambiente (se aplicável)  
-4. Executar o projeto  
+## 🎯 Objetivo
+Centralizar as tarefas, exercícios e aprendizados do curso, garantindo **continuidade**, **rastreabilidade** e **evidência prática** da evolução ao longo do programa.
 
-## ▶️ Uso
-Explique como utilizar o projeto na prática:
-- Comandos principais
-- Fluxo básico de uso
-- Exemplos de execução
+## 👩‍🎓 Contexto
+- Mestranda em Inteligência Artificial  
+- Curso: **Excel com IA — DIO**  
+- Este é meu **primeiro projeto no GitHub**
 
-## 🧪 Testes
-- Como rodar os testes
-- Estratégia adotada (unitários, integração, etc.)
+O repositório funciona como apoio ao aprendizado e também como **registro público** do desenvolvimento das atividades propostas.
 
-## 📊 Métricas e Qualidade
-- Cobertura de testes
-- Padrões de código adotados
-- Boas práticas seguidas
+## 📂 Conteúdo do Repositório
+- Tarefas práticas do curso
+- Exercícios aplicados
+- Anotações e aprendizados relevantes
+- Arquivos em Excel e documentações complementares
 
-## 🔐 Segurança e Compliance
-- Cuidados com dados sensíveis
-- Princípios éticos ou regulatórios considerados
+> O conteúdo será atualizado conforme o avanço no curso.
 
-## 🤝 Contribuição
-1. Faça um fork do projeto  
-2. Crie uma branch (`feature/nome-da-feature`)  
-3. Commit suas alterações  
-4. Abra um Pull Request  
+## 🛠️ Ferramentas e Tecnologias
+- Microsoft Excel
+- Recursos de IA aplicados ao Excel
+- GitHub (documentação e versionamento)
 
-## 📄 Licença
-Informe a licença do projeto e o que é permitido ou restrito.
+## 📈 Evolução Esperada
+- Incremento progressivo das atividades
+- Refinamento das análises
+- Consolidação do aprendizado prático em IA aplicada
 
-## 📬 Contato
-Nome do responsável  
-LinkedIn / Email / Outro canal relevante
+## 📌 Observação
+Este repositório tem finalidade **educacional** e é crucial para dar continuidade ao curso.
+
+---
+
+
+
